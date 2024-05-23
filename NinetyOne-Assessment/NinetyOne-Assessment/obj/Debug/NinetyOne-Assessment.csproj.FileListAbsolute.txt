@@ -1,0 +1,7 @@
+C:\NinetyOne-Assessment\NinetyOne-Assessment\NinetyOne-Assessment\bin\Debug\NinetyOne-Assessment.exe.config
+C:\NinetyOne-Assessment\NinetyOne-Assessment\NinetyOne-Assessment\bin\Debug\NinetyOne-Assessment.exe
+C:\NinetyOne-Assessment\NinetyOne-Assessment\NinetyOne-Assessment\bin\Debug\NinetyOne-Assessment.pdb
+C:\NinetyOne-Assessment\NinetyOne-Assessment\NinetyOne-Assessment\obj\Debug\NinetyOne-Assessment.csproj.AssemblyReference.cache
+C:\NinetyOne-Assessment\NinetyOne-Assessment\NinetyOne-Assessment\obj\Debug\NinetyOne-Assessment.csproj.CoreCompileInputs.cache
+C:\NinetyOne-Assessment\NinetyOne-Assessment\NinetyOne-Assessment\obj\Debug\NinetyOne-Assessment.exe
+C:\NinetyOne-Assessment\NinetyOne-Assessment\NinetyOne-Assessment\obj\Debug\NinetyOne-Assessment.pdb
